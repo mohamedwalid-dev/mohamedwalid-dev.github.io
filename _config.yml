@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ar
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
@@ -14,35 +14,35 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+title: Mohammed Walid # the main title
+author: Mohammed Walid # the default author name
+tagline: Data Anaylst # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, data analysis, data visualization, machine learning, AI, programming, tech tutorials, coding tips, and industry insights.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://mohamedwalid-dev.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: mohamedwalid-dev # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Mohamedwaliid99 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Mohammed Walid 
+  email: myluckynumberis9! # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/mohamedwaliid99 # change to your Twitter homepage
+    - https://github.com/mohamedwalid-dev # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/moewaleed003/
+    - https://www.linkedin.com/in/mohamed-waleed-574159260/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/447897801_1002206381261046_5751924283205049596_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=8sjw1PPTBSkQ7kNvwFtbvmY&_nc_oc=Admal--ECLFI9F-j8iAA5e5LAhNyspkXx_e8Fxqy5tz0BvIgquqJpVL0ke5i0Cpnde0&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=qY1EuLg3R8kjKjDYaUFy_Q&oh=00_AfcLjUC8rIeCcSOVgDIg-jc5p910ybydhB0TtlmrMdMqXQ&oe=68FBE684
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
